@@ -636,7 +636,4 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
-  <!-- Gapps -->
-  <include name="snippets/opengapps.xml" />
-
 </manifest>
